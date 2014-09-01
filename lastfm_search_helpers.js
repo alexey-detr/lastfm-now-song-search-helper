@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Search helpers for last.fm now page
 // @description Search helpers for last.fm now page
-// @namespace   lastfm
+// @namespace   lastfm.now.search.helpers
 // @include     http://www.lastfm.ru/user/*/now
 // @version     1.1
 // @grant       none
